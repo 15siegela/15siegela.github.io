@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Mission Impossible: Beautiful Picture taken in Duisburg
+published: true
 ---
 ## Duisburg Harbour
 
