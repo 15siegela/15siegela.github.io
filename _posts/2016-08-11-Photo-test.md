@@ -5,4 +5,4 @@ published: true
 ---
 ## Duisburg Harbour
 
-![Duisburg Habour]({{site.baseurl}}/15siegela.github.io/images/IMG_20151101_171433.jpg)
+![Duisburg Habour]({{site.baseurl}}/images/IMG_20151101_171433.jpg)
