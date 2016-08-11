@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I am a 19 year old student pursuing a Bachelor of Science in Computer Engineering at the University of Duisburg-Essen.   
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I will be updating this website with infromation on any of my future projects.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[contact@alecsiegel.me](mailto:contact@alecsiegel.me)
