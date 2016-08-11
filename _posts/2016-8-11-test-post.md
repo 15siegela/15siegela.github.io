@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Student Creates Sub-par Website
+title: Student Creates Subpar Website
 published: true
 ---
 
