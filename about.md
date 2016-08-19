@@ -14,3 +14,6 @@ I will be updating this website with infromation on any of my future projects.
 ### Contact me
 
 [contact@alecsiegel.me](mailto:contact@alecsiegel.me)
+
+### Privacy Policy
+This site uses Google analytics to collect data on it's users an order to better serve it's users. This site is non-commerical and will remain non-commercial unless otherwise stated in this privacy policy. More about Google analytics can be found [here](www.google.com/policies/privacy/partners/).
