@@ -30,5 +30,5 @@ Sony Xperia Z5 (Stock 6.0.1, Androplus Kernel)
 Moto G (Stock 5.1, Backup device)
 
 ### Amazon Wishlist
-#### Ohhh, is it my birthday or Christmas?!
-[Wishlist](https://www.amazon.de/gp/registry/wishlist/3KPZ3C37R1TDB/ref=cm_wl_list_o_2?)
+Need gift ideas for my birthday or Christmas?!
+[Wishlist.](https://www.amazon.de/gp/registry/wishlist/3KPZ3C37R1TDB/ref=cm_wl_list_o_2?)
