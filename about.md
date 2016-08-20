@@ -20,9 +20,9 @@ This site uses Google analytics to collect data on it's users. This data is coll
 See how Google uses the data [here.](https://www.google.com/policies/privacy/partners/)
 
 ### My Gear
-Surface Pro 3 (i7, 256GB)   
--    Black Typecover
--    Docking station
+Surface Pro 3 (i7, 256GB)      
+Black Typecover  
+Docking station  
 Microsoft Sidewinder X4   
 E-3lue Cobra    
 Audio Techica ATH-M50x    
