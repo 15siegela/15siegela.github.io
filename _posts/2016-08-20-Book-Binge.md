@@ -4,7 +4,7 @@ title: Book Buying Binge
 published: true
 ---
 ## I Bought Some Books
-This morning I spontaneously decided to order some books from a used book store. I'm not patiently waiting for the following books to arrive.    
+This morning I spontaneously decided to order some books from a used book store. I'm now patiently waiting for the following books to arrive.    
 -Infinite Jest   
 -American Psycho    
 -A Clockwork Orange   
