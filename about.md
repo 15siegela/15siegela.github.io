@@ -32,3 +32,5 @@ Moto G (Stock 5.1, Backup device)
 ### Amazon Wishlist
 Need gift ideas for my birthday or Christmas?!
 [Wishlist.](https://www.amazon.de/gp/registry/wishlist/3KPZ3C37R1TDB/ref=cm_wl_list_o_2?)
+### Student interested in Amazon Prime?
+Click [here](https://www.amazon.de/gp/student/signup/info?ie=UTF8&refcust=HIPS7EDGROCWWG6TK4AL6UU3VE&ref_type=generic&ref=amzn_st_de_ref_generic) to sign up 12 months of free prime shipping. (Full disclosure this is an affilate link and I may be compesanted monetarily for those who signup using my link.)
