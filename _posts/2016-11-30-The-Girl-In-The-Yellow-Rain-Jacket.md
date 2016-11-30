@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ##The Girl In The Yellow Rain Jacket
@@ -10,4 +10,4 @@ It did not look like the beginning of a day that anyone would want to remember, 
 I first noticed the bright yellow color just out of the corner of my eye, it stood out against the sea of muted grays like a single dandelion standing tall in a field of ash.      
 And at that moment it was as if the clouds parted and the sun began to shine, I found myself smiling, yet unable to explain why. And as I exited the tram and we walked together up the hill, I began to dread the moment we would part ways.      
 I thought about talking to her, thanking her for brightening my day. But as she turned the corner, I continued straight, for I had reluctanctly decided that it was better left to fate.     
-As I approached the top of the hill, I took a selfish glance back, but the flower had blown away, the world had returned to gray. And now I cannot forget the girl in the yellow rain jacket.     
+As I approached the top of the hill, I took a selfish glance back, but the flower had blown away, the world had returned to gray. And now I cannot forget the girl in the yellow rain jacket.
