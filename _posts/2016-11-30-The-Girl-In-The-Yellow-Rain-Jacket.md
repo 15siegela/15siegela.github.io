@@ -4,7 +4,7 @@ layout: post
 title: The Girl In the Yellow Rain Jacket
 ---
 
-##Just posting to post soemthing, 
+## Just something quick I wrote 
 It was a characteristically bleak winters day in Duisburg, a seemingly endless drizzle of rain accompanied by a cold harsh wind that seemed to cut right down to the flesh.    
 A day where the worlds color pallet seemed to have been reduced to nothing but varying shades of gray.
 The sun had yet to rise and it was unlikely that it would even consider making an appearance.      
