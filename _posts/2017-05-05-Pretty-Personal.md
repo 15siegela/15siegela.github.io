@@ -4,7 +4,6 @@ title: Just some thoughts
 published: true
 ---
 ## Perhaps this is too personal.
-
 Hey you, yeah you. I know you're reading. Can I just first say that it is crazy that we can communicate like this, a conversation where half takes place first in my mind and the other sometime later in yours. When you think about it that is something that is something quite intimate, but somehow you get used to it and it doesn't really seem personal. Well at least for me.  
 
 There are certainly advantages to this. I have time and no pressure; the words come when they come and if I don't like the way they sound, I can quickly make a change. Then it is as if it has always been that way. I'm allowed to stop and think, something that enables me to be confident in the result. These sentences were not the first sentences that came to my mind. They are a result numerous thought revisions and corrections, yet this is not obviously evident. The result is the best version. Well and by best version, I mean it's the version that my mind finally considers good enough.
