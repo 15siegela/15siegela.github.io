@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just some thoughts 
-published: true
+published: false
 ---
 ## Perhaps this is too personal.
 Hey you, yeah you. I know you're reading. Can I just first say that it is crazy that we can communicate like this, a conversation where half takes place first in my mind and the other sometime later in yours. When you think about it that is something that is something quite intimate, but somehow you get used to it and it doesn't really seem personal. Well at least for me.  
