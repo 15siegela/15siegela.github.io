@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Just some thoughts 
+published: true
 ---
 ## Perhaps this is too personal. Just some ramblings
 
