@@ -6,6 +6,8 @@ published: true
 ---
 
 ~~I am a 19 year old student pursuing a Bachelor of Science in Computer Engineering at the University of Duisburg-Essen.~~
+
+ 
 I am a 20 year old student pursuing a BA in Computer Science at wonderful Diablo Valley Community College. 
 
 ### More Information
