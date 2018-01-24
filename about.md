@@ -21,14 +21,14 @@ This site uses Google analytics to collect data on it's users. This data is coll
 See how Google uses the data [here.](https://www.google.com/policies/privacy/partners/)
 
 ### My Gear
-+Surface Pro 3 (i7, 256GB) w/Docking station  
-+AMD Custom PC (Ryzen 1600, 8GB@3000MHz, GTX 1070)
-+Dell U2515 and Dell U2415 IPS Monitors
-+Audio Techica ATH-M50x
-+BGVP SGZ-DN1 IEMs
-+Samsung Galaxy S8 (8.0 Beta)
-+~~Sony Xperia Z5 (Stock 6.0.1, Androplus Kernel)    
-+Moto G (Stock 5.1, Backup device)   
++ Surface Pro 3 (i7, 256GB) w/Docking station  
+0. AMD Custom PC (Ryzen 1600, 8GB@3000MHz, GTX 1070)
+0. Dell U2515 and Dell U2415 IPS Monitors
+0. Audio Techica ATH-M50x
+0. BGVP SGZ-DN1 IEMs
+0. Samsung Galaxy S8 (8.0 Beta)
+0. ~~Sony Xperia Z5 (Stock 6.0.1, Androplus Kernel)    
+0. Moto G (Stock 5.1, Backup device)   
 
 ### Amazon Wishlist
 Need gift ideas for my birthday or Christmas?!
