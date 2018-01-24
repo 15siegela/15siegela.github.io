@@ -29,8 +29,8 @@ See how Google uses the data [here.](https://www.google.com/policies/privacy/par
 + Audio Techica ATH-M50x
 + BGVP SGZ-DN1 IEMs
 + Samsung Galaxy S8 (8.0 Beta)
-+ ~~Sony Xperia Z5 (Stock 6.0.1, Androplus Kernel)    
-+ Moto G (Stock 5.1, Backup device)   
++ ~~Sony Xperia Z5 (Stock 6.0.1, Androplus Kernel)~~
++ ~~Moto G (Stock 5.1, Backup device)~~   
 
 ### Amazon Wishlist
 Need gift ideas for my birthday or Christmas?!
