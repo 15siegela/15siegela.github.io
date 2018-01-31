@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Buying Binge
-published: true
+published: false
 ---
 ## I Bought Some Books
 This morning I spontaneously decided to order some books from a used book store. I'm now patiently waiting for the following books to arrive.    
