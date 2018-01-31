@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About Now Includes Our Privacy Policy
+title: "About" Now Includes Our Privacy Policy
 published: true
 ---
 ## Privacy Policy Updated
