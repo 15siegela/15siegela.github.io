@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 ## Consumption 
 She was obsidian and he a gentle dying ember.
