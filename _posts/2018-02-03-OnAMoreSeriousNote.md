@@ -1,7 +1,8 @@
 ---
-published: true
-layout:post
+layout: post
 title: Open Letter
+published: true
+
 ---
 ## My Grain
 
