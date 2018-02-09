@@ -1,7 +1,8 @@
 ---
-published: true
-title: All Aboard
 layout: post
+title: All Aboard
+published: true
+
 ---
 ## Excerpt from "The Pale King"  
   
