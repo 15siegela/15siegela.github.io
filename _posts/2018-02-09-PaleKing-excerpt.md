@@ -1,7 +1,7 @@
 ---
 published: true
-layout:post
 title: All Aboard
+layout:post
 ---
 ## Excerpt from "The Pale King"  
   
