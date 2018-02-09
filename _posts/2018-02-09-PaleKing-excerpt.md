@@ -1,5 +1,7 @@
 ---
 published: false
+layout:post
+title: All Aboard
 ---
 ## Excerpt from "The Pale King"  
   
