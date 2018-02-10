@@ -24,7 +24,7 @@ See how Google uses the data [here.](https://www.google.com/policies/privacy/par
 
 ### My Gear
 + Surface Pro 3 (i7, 256GB) w/Docking station  
-+ AMD Custom PC (Ryzen 1600@3.8GHz, 8GB DDR4@3000MHz, GTX 1070 ARMOR 8G OC)
++ AMD Custom PC (Ryzen 1600 @3.8GHz, 8GB DDR4 @3000MHz, GTX 1070 ARMOR 8G OC)
 + Dell U2515 and Dell U2415 IPS Monitors
 + Klipsch R-15PM Bookshelf speakers & R10SW Reference Sub
 + Audio Techica ATH-M50x
