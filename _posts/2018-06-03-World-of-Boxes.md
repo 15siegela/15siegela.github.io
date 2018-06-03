@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: World of Boxes
+published: true
 ---
 
 We live in a world of distinct, finely defined boxes.
