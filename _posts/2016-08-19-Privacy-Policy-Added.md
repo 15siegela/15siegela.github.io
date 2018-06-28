@@ -1,6 +1,5 @@
 ---
 layout: post
-
 title: About: Now Includes a Privacy Policy
 published: true
 ---
